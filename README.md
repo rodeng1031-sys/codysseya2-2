@@ -11,7 +11,7 @@
 * 필수 패키지: `requests`, `python-dotenv`, `openai`
 
 ### 환경 변수 설정 (`.env`)
-프로젝트 최상단에 `.env` 파일을 만들고 아래 API 키를 등록해야 합니다. (절대 Git에 커밋하지 마세요)
+프로젝트 최상단에 `.env` 파일을 만들고 아래 API 키를 등록해야 합니다. 
 ```env
 OPENAI_API_KEY="your_openai_api_key_here"
 KAKAO_REST_API_KEY="your_kakao_rest_api_key_here"
